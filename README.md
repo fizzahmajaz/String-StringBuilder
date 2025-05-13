@@ -11,7 +11,8 @@ This concise PDF cheatsheet covers the most important and frequently used method
 ---
 
 📥 **Download the Cheatsheet (PDF):**
-![stringbuilder, string, stringbuilder cheatsheet, string cheatsheet, fizzahmajaz](https://github.com/user-attachments/assets/bd6ca698-71b5-44ea-a56a-916a7afd81c2)
+![stringbuilder, string, stringbuilder cheatsheet, string cheatsheet, fizzahmajaz](https://github.com/user-attachments/assets/49693062-322f-438f-886a-e7572ab965c8)
+
 
 
 Click here to download!
